@@ -1,0 +1,35 @@
+div.footer {
+	position: fixed;
+    height: 20px;
+    bottom: 0;
+    width: 100%;
+}
+
+div.header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+div.body{
+	margin-top: 50px;
+}
+
+.edit-row-btn{
+	cursor: pointer;
+}
+
+.cancel-row-btn{
+	cursor: pointer;
+}
+
+.del-row-btn{
+	cursor: pointer;
+}
+
+.no-close .ui-dialog-titlebar-close {display: none }
+
+.bar {
+    height: 18px;
+    background: green;
+}
